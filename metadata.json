@@ -1,0 +1,5 @@
+{
+  "name": "Grand Line Tactics: Data Core",
+  "description": "Core data architecture and type system for a One Piece strategic RPG, featuring a complex elemental matrix and character database.",
+  "requestFramePermissions": []
+}
